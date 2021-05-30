@@ -1,0 +1,54 @@
+:root
+{
+    font-family: 'Cairo', sans-serif;
+    background-color: hsl(0, 1%, 21%);
+}
+
+.greatings
+{
+    position: relative;
+    margin: auto;
+}
+
+h1
+{
+    margin: auto;
+    position: absolute;
+    top: 35rem;
+    left: 32rem;
+    text-align: center;
+    color: rgb(251, 255, 0);
+    text-shadow: 1rem 1rem 6rem #000000;
+    font-size: 5rem;
+    font-family: Arial;
+    font-weight: bold;
+}
+
+.logo
+{
+    position: absolute;
+    top: 13rem;
+    left: 38%;
+    width: 25rem;
+}
+
+.welcome
+{
+    height: auto;
+    width: 110rem;
+    margin: auto;
+    padding-left: 3rem;
+}
+
+.section2
+{
+    position: relative;
+    margin: auto;
+}
+
+hr
+{
+    width: 65%;
+    color: rgb(251, 255, 0);
+    border-radius: 0.5rem;
+}
