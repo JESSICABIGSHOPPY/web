@@ -4,6 +4,3 @@
 <p align=center>
   JESSICA BIG SHOPPY
 </p>
-
-# About Us:
-  A small scale supermarket that aims at providing best service for our customers at any cost.
