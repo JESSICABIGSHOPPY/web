@@ -43,6 +43,7 @@ h1
 .section2
 {
     position: relative;
+    vertical-align: middle;
     margin: auto;
 }
 
